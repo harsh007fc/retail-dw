@@ -1,2 +1,12 @@
 its just a scratch pad
+to find folder structure
 
+
+find . -maxdepth 3 \
+  -not -path './.env*' \
+  -not -path './env*' \
+  -not -path '*/.env*' \
+  -not -path '*/env*' \
+  -not -path './.git*' \
+  -not -path '*/.git*' \
+  -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
