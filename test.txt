@@ -1,0 +1,3 @@
+input_folder = "source_bucket/raw/json"
+output_folder = "destination_bucket/bronze/"
+convert_latest_json_to_parquet(input_folder, output_folder)
