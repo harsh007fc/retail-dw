@@ -297,8 +297,8 @@ def save_data(data, format='both'):
     # Loop through each table and save the data
     for table_name, records in data.items():
         # Create the table-specific subdirectories
-        json_folder = os.path.join('source_bucket/raw/json', table_name)
-        csv_folder = os.path.join('source_bucket/raw/csv', table_name)
+        json_folder = os.path.join('dw/source_bucket/raw/json', table_name)
+        csv_folder = os.path.join('dw/source_bucket/raw/csv', table_name)
         
         # Create directories if they don't exist
         if not os.path.exists(json_folder):

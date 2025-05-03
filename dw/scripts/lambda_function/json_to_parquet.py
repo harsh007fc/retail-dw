@@ -32,7 +32,7 @@ def process_entity_folder(entity: str, input_dir: str, output_dir: str, ingestio
     print(f"📄 Processing latest JSON from: {latest_file}")
 
     try:
-        df = pd.read_json(latest_file, lines=True)
+        df = pd.read_json(latest_file)
 
         # Output path: output_dir/entity/ingestion_date=YYYY-MM-DD/
         partition_path = os.path.join(output_dir, entity, f"ingestion_date={ingestion_date}")
@@ -67,6 +67,6 @@ def convert_all_entities(input_dir: str, output_dir: str) -> None:
 
 
 if __name__ == "__main__":
-    input_folder = "source_bucket/raw/json"
-    output_folder = "destination_bucket/bronze/"
+    input_folder = "dw/source_bucket/raw/json"
+    output_folder = "dw/destination_bucket/bronze/"
     convert_all_entities(input_folder, output_folder)
