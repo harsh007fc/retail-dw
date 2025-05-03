@@ -1,0 +1,29 @@
+category_id,category_name,parent_category_id
+1,Sports & Outdoors,
+2,Books,
+3,Books,
+4,Toys & Games,
+5,Electronics,
+6,Grocery,
+7,Toys & Games,
+8,Toys & Games,
+9,Toys & Games - Other Discuss,7
+10,Electronics - Headphones,5
+11,Sports & Outdoors - Gas Price,1
+12,Sports & Outdoors - Actually Visit,1
+13,Books - Story Value,2
+14,Books - Yes Whose,3
+15,Electronics - TVs,5
+16,Toys & Games - Somebody Up,4
+17,Grocery - Subject Politics,6
+18,Sports & Outdoors - Girl Claim,1
+19,Books - Important Simply,3
+20,Toys & Games - Fish Beat,7
+21,Grocery - Main Budget,6
+22,Toys & Games - Different Message,8
+23,Books - Lawyer Why,2
+24,Grocery - Always Into,6
+25,Electronics - Smartphones,5
+26,Toys & Games - Quickly Site,4
+27,Books - Simply Rich,2
+28,Grocery - Eight Share,6
