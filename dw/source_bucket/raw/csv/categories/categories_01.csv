@@ -1,0 +1,29 @@
+category_id,category_name,parent_category_id
+1,Books,
+2,Home & Kitchen,
+3,Grocery,
+4,Grocery,
+5,Home & Kitchen,
+6,Beauty,
+7,Toys & Games,
+8,Electronics,
+9,Grocery - Move Past,4
+10,Grocery - Discussion Activity,3
+11,Books - Join Book,1
+12,Grocery - Behavior Memory,3
+13,Beauty - Machine Offer,6
+14,Grocery - Mrs Alone,3
+15,Beauty - This Building,6
+16,Beauty - Notice End,6
+17,Home & Kitchen - Available Whose,2
+18,Grocery - Likely Character,4
+19,Beauty - Seem Social,6
+20,Grocery - Network These,4
+21,Grocery - Determine Prove,3
+22,Home & Kitchen - Drug Federal,2
+23,Beauty - Believe Rather,6
+24,Beauty - Oil Point,6
+25,Books - News Laugh,1
+26,Toys & Games - Raise Many,7
+27,Grocery - Time Pass,4
+28,Beauty - Bank Over,6

@@ -1,0 +1,142 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Books",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 2,
+    "category_name": "Home & Kitchen",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 3,
+    "category_name": "Grocery",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 4,
+    "category_name": "Grocery",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 5,
+    "category_name": "Home & Kitchen",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 6,
+    "category_name": "Beauty",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 7,
+    "category_name": "Toys & Games",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 8,
+    "category_name": "Electronics",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 9,
+    "category_name": "Grocery - Move Past",
+    "parent_category_id": 4
+  },
+  {
+    "category_id": 10,
+    "category_name": "Grocery - Discussion Activity",
+    "parent_category_id": 3
+  },
+  {
+    "category_id": 11,
+    "category_name": "Books - Join Book",
+    "parent_category_id": 1
+  },
+  {
+    "category_id": 12,
+    "category_name": "Grocery - Behavior Memory",
+    "parent_category_id": 3
+  },
+  {
+    "category_id": 13,
+    "category_name": "Beauty - Machine Offer",
+    "parent_category_id": 6
+  },
+  {
+    "category_id": 14,
+    "category_name": "Grocery - Mrs Alone",
+    "parent_category_id": 3
+  },
+  {
+    "category_id": 15,
+    "category_name": "Beauty - This Building",
+    "parent_category_id": 6
+  },
+  {
+    "category_id": 16,
+    "category_name": "Beauty - Notice End",
+    "parent_category_id": 6
+  },
+  {
+    "category_id": 17,
+    "category_name": "Home & Kitchen - Available Whose",
+    "parent_category_id": 2
+  },
+  {
+    "category_id": 18,
+    "category_name": "Grocery - Likely Character",
+    "parent_category_id": 4
+  },
+  {
+    "category_id": 19,
+    "category_name": "Beauty - Seem Social",
+    "parent_category_id": 6
+  },
+  {
+    "category_id": 20,
+    "category_name": "Grocery - Network These",
+    "parent_category_id": 4
+  },
+  {
+    "category_id": 21,
+    "category_name": "Grocery - Determine Prove",
+    "parent_category_id": 3
+  },
+  {
+    "category_id": 22,
+    "category_name": "Home & Kitchen - Drug Federal",
+    "parent_category_id": 2
+  },
+  {
+    "category_id": 23,
+    "category_name": "Beauty - Believe Rather",
+    "parent_category_id": 6
+  },
+  {
+    "category_id": 24,
+    "category_name": "Beauty - Oil Point",
+    "parent_category_id": 6
+  },
+  {
+    "category_id": 25,
+    "category_name": "Books - News Laugh",
+    "parent_category_id": 1
+  },
+  {
+    "category_id": 26,
+    "category_name": "Toys & Games - Raise Many",
+    "parent_category_id": 7
+  },
+  {
+    "category_id": 27,
+    "category_name": "Grocery - Time Pass",
+    "parent_category_id": 4
+  },
+  {
+    "category_id": 28,
+    "category_name": "Beauty - Bank Over",
+    "parent_category_id": 6
+  }
+]
