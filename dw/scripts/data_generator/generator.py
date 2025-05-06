@@ -344,8 +344,8 @@ def save_data(data, format='both'):
     
     print(f"Data saved in {format.upper()} format")
 
-if __name__ == '__main__':
-    # Configuration
+def main():
+        # Configuration
     start_date = '2023-01-01'
     end_date = '2023-12-31'
     
@@ -354,3 +354,7 @@ if __name__ == '__main__':
     
     # Save data in both formats
     save_data(data, format='both')
+
+
+if __name__ == '__main__':
+    main()

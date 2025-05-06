@@ -10,3 +10,53 @@ find . -maxdepth 3 \
   -not -path './.git*' \
   -not -path '*/.git*' \
   -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
+
+
+=============================================================================
+
+AIRFLOW_VERSION=2.9.0
+PYTHON_VERSION=3.9
+
+pip install "apache-airflow==${AIRFLOW_VERSION}" \
+    --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+
+
+
+
+export AIRFLOW_HOME=$(pwd)/airflow
+
+export AIRFLOW_HOME=$(pwd)
+
+
+airflow db init
+
+
+
+
+
+airflow users create \
+    --username admin \
+    --password admin \
+    --firstname First \
+    --lastname Last \
+    --role Admin \
+    --email admin@example.com
+
+
+
+
+airflow scheduler
+
+
+
+airflow webserver --port 8080
+
+
+
+
+
+
+
+netstat -aon | findstr :8080
+taskkill /PID 12345 /F
+

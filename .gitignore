@@ -18,3 +18,8 @@ __pycache__/
 # Ignore system files
 .DS_Store      # For macOS
 Thumbs.db      # For Windows
+
+
+# airflow logs
+
+airflow/logs
