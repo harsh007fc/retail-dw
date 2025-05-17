@@ -10,8 +10,9 @@ sys.path.insert(0, project_root)
 
 
 # Import the job functions
-from dw.scripts.data_generator.generator import main as job1_main
-from dw.scripts.lambda_function.json_to_parquet import main as job2_main
+from dw.scripts.data_generator.generator import main as generate
+from dw.scripts.lambda_function.json_to_parquet import main as convert
+from dw.duckdb.create_external_tables_duckdb import main as update_table
 
 default_args = {
     "owner": "airflow",
@@ -32,16 +33,21 @@ with DAG(
     tags=["jobs"],
 ) as dag:
 
-    run_job1 = PythonOperator(
-        task_id="run_job1",
-        python_callable=job1_main,
+    generate_raw = PythonOperator(
+        task_id="generate",
+        python_callable=generate,
     )
 
-    run_job2 = PythonOperator(
-        task_id="run_job2",
-        python_callable=job2_main,
+    convert_raw = PythonOperator(
+        task_id="convert",
+        python_callable=convert,
+    )
+    
+    update_table = PythonOperator(
+        task_id="update_table",
+        python_callable=update_table,
     )
 
     # Set the dependency - job2 runs after job1 completes
-    run_job1 >> run_job2
+    generate_raw >> convert_raw >> update_table
 

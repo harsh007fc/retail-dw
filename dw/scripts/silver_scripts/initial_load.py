@@ -10,11 +10,11 @@ def init_spark(app_name="SCD2 Initial Load"):
 
 def read_bronze_data(spark):
     return {
-        "orders": spark.read.parquet("bronze/raw_orders"),
-        "products": spark.read.parquet("bronze/raw_products"),
-        "customers": spark.read.parquet("bronze/raw_customers"),
-        "order_items": spark.read.parquet("bronze/raw_order_items"),
-        "browsing_logs": spark.read.parquet("bronze/raw_browsing_logs")
+        # "orders": spark.read.parquet("../dw/destination_bucket/bronze/orders"),
+        "products": spark.read.parquet("../dw/destination_bucket/bronze/products"),
+        "customers": spark.read.parquet("../dw/destination_bucket/bronze/customers"),
+        # "order_items": spark.read.parquet("../dw/destination_bucket/bronze/order_items"),
+        # "browsing_logs": spark.read.parquet("../dw/destination_bucket/bronze/browsing_history")
     }
 
 
@@ -69,15 +69,15 @@ def main():
 
     stg_products = process_products(bronze["products"])
     stg_customers = process_customers(bronze["customers"])
-    stg_orders = process_orders(bronze["orders"])
-    stg_order_items = process_order_items(bronze["order_items"], stg_products)
-    stg_browsing_behavior = process_browsing_behavior(bronze["browsing_logs"])
+    # stg_orders = process_orders(bronze["orders"])
+    # stg_order_items = process_order_items(bronze["order_items"], stg_products)
+    # stg_browsing_behavior = process_browsing_behavior(bronze["browsing_logs"])
 
-    write_to_silver(stg_products, "silver/stg_products")
-    write_to_silver(stg_customers, "silver/stg_customers")
-    write_to_silver(stg_orders, "silver/stg_orders")
-    write_to_silver(stg_order_items, "silver/stg_order_items")
-    write_to_silver(stg_browsing_behavior, "silver/stg_browsing_behavior")
+    write_to_silver(stg_products, "../dw/destination_bucket/silver/stg_products")
+    write_to_silver(stg_customers, "../dw/destination_bucket/silver/stg_customers")
+    # write_to_silver(stg_orders, "../dw/destination_bucket/silver/stg_orders")
+    # write_to_silver(stg_order_items, "../dw/destination_bucket/silver/stg_order_items")
+    # write_to_silver(stg_browsing_behavior, "../dw/destination_bucket/silver/stg_browsing_behavior")
 
 
 if __name__ == "__main__":

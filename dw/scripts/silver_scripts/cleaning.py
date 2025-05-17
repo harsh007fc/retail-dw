@@ -5,8 +5,8 @@ spark = SparkSession.builder \
     .appName("Retail Silver Layer") \
     .getOrCreate()
 
-bronze_path = "/path/to/bronze/"
-silver_path = "/path/to/silver/"
+bronze_path = "../dw/destination_bucket/bronze"
+silver_path = "../dw/destination_bucket/silver"
 
 def process_customers():
     df = spark.read.option("basePath", bronze_path).parquet(f"{bronze_path}/customers")
