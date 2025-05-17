@@ -1,0 +1,142 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Clothing",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 2,
+    "category_name": "Books",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 3,
+    "category_name": "Beauty",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 4,
+    "category_name": "Electronics",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 5,
+    "category_name": "Electronics",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 6,
+    "category_name": "Home & Kitchen",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 7,
+    "category_name": "Beauty",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 8,
+    "category_name": "Clothing",
+    "parent_category_id": null
+  },
+  {
+    "category_id": 9,
+    "category_name": "Electronics - Laptops",
+    "parent_category_id": 5
+  },
+  {
+    "category_id": 10,
+    "category_name": "Beauty - End Stop",
+    "parent_category_id": 3
+  },
+  {
+    "category_id": 11,
+    "category_name": "Electronics - Headphones",
+    "parent_category_id": 4
+  },
+  {
+    "category_id": 12,
+    "category_name": "Beauty - Mind Change",
+    "parent_category_id": 3
+  },
+  {
+    "category_id": 13,
+    "category_name": "Electronics - TVs",
+    "parent_category_id": 5
+  },
+  {
+    "category_id": 14,
+    "category_name": "Clothing - Accessories",
+    "parent_category_id": 1
+  },
+  {
+    "category_id": 15,
+    "category_name": "Books - Manage Film",
+    "parent_category_id": 2
+  },
+  {
+    "category_id": 16,
+    "category_name": "Beauty - Total Gun",
+    "parent_category_id": 7
+  },
+  {
+    "category_id": 17,
+    "category_name": "Beauty - Right Product",
+    "parent_category_id": 3
+  },
+  {
+    "category_id": 18,
+    "category_name": "Clothing - Men",
+    "parent_category_id": 8
+  },
+  {
+    "category_id": 19,
+    "category_name": "Beauty - Experience Interesting",
+    "parent_category_id": 3
+  },
+  {
+    "category_id": 20,
+    "category_name": "Books - Seem Painting",
+    "parent_category_id": 2
+  },
+  {
+    "category_id": 21,
+    "category_name": "Books - My About",
+    "parent_category_id": 2
+  },
+  {
+    "category_id": 22,
+    "category_name": "Electronics - Headphones",
+    "parent_category_id": 5
+  },
+  {
+    "category_id": 23,
+    "category_name": "Beauty - Four Still",
+    "parent_category_id": 7
+  },
+  {
+    "category_id": 24,
+    "category_name": "Clothing - Men",
+    "parent_category_id": 8
+  },
+  {
+    "category_id": 25,
+    "category_name": "Electronics - TVs",
+    "parent_category_id": 4
+  },
+  {
+    "category_id": 26,
+    "category_name": "Beauty - Nice Notice",
+    "parent_category_id": 7
+  },
+  {
+    "category_id": 27,
+    "category_name": "Clothing - Women",
+    "parent_category_id": 8
+  },
+  {
+    "category_id": 28,
+    "category_name": "Beauty - Western Describe",
+    "parent_category_id": 3
+  }
+]

@@ -65,8 +65,8 @@ def convert_all_entities(input_dir: str, output_dir: str) -> None:
 
 
 def main():
-    input_folder = "dw/source_bucket/raw/json"
-    output_folder = "dw/destination_bucket/bronze/"
+    input_folder = "../dw/source_bucket/raw/json"
+    output_folder = "../dw/destination_bucket/bronze/"
     convert_all_entities(input_folder, output_folder) 
 
 if __name__ == "__main__":

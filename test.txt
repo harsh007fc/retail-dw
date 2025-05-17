@@ -28,6 +28,8 @@ export AIRFLOW_HOME=$(pwd)/airflow
 export AIRFLOW_HOME=$(pwd)
 
 
+
+
 airflow db init
 
 
@@ -58,5 +60,6 @@ airflow webserver --port 8080
 
 
 netstat -aon | findstr :8080
+
 taskkill /PID 12345 /F
 
