@@ -1,0 +1,21 @@
+product_id,name,category_id,brand,price,stock_quantity
+1,Ever,5,Charles and Sons,483.5,26
+2,Interesting,3,Lucas Ltd,138.3,18
+3,Author,1,Mcdonald-King,10.26,39
+4,Story,5,"Moore, Warren and Davis",284.87,62
+5,Thousand,3,"Taylor, Curry and Osborne",124.05,12
+6,Number,2,Anderson-Vazquez,271.58,49
+7,Industry,2,"Dorsey, Hall and Gonzalez",85.64,12
+8,Possible,2,Smith-Dominguez,495.47,89
+9,Research,1,Erickson Group,269.83,21
+10,Hear,4,Dodson Ltd,268.6,72
+11,Full,4,Graham-Carroll,99.87,93
+12,Tonight,4,Wells-Tanner,246.16,12
+13,Environment,5,"Garcia, Taylor and Lane",329.26,75
+14,Another,3,Wilson PLC,88.29,62
+15,Result,3,"Kline, French and Guerra",116.13,17
+16,Wall,3,Higgins-Weber,76.45,32
+17,Likely,5,Ross LLC,154.28,7
+18,Very,2,Hill Inc,368.36,73
+19,Remain,5,"West, Carter and Davis",148.28,1
+20,With,3,Meyer Ltd,233.63,92

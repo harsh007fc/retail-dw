@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,total_amount,payment_method,shipping_address,status
+1,7,2025-05-18T14:42:01.210386,2188.96,Credit Card,"6568 Navarro Vista Suite 871, West Michaelport, DC 55234",shipped
+2,8,2025-05-18T14:42:01.210639,1281.91,COD,"9784 David Crossroad Suite 496, Harryton, ID 20979",pending
+3,2,2025-05-18T14:42:01.210774,444.1,Credit Card,"055 Barnett Rue Apt. 269, Julieland, NY 33021",delivered
+4,9,2025-05-18T14:42:01.210916,330.39,Credit Card,"84594 Martin Spring Apt. 562, East Matthew, GA 58784",delivered
+5,5,2025-05-18T14:42:01.211056,1761.63,Credit Card,"3556 Hansen Way, Thompsonfort, IA 17648",delivered
+6,4,2025-05-18T14:42:01.211201,862.53,Credit Card,"893 Barry Mission, North Rachel, WY 89957",shipped
+7,6,2025-05-18T14:42:01.211330,1223.07,PayPal,"5641 Wade Ports Suite 799, Hartmanview, SD 22858",pending
+8,6,2025-05-18T14:42:01.211483,854.61,COD,"4266 Patrick Freeway Suite 820, Port Kim, WA 54063",pending
+9,2,2025-05-18T14:42:01.211642,2202.26,PayPal,"8257 Rowland Squares, Port Jessicaport, OR 85234",delivered
+10,5,2025-05-18T14:42:01.211774,2144.91,COD,"31550 Jason Square, North Gary, AL 83910",pending
+11,2,2025-05-18T14:42:01.211888,1038.45,COD,"43922 Harris Extensions Apt. 947, Nicoletown, TX 83455",delivered
+12,9,2025-05-18T14:42:01.212027,1109.44,COD,"3996 Charles Landing Suite 833, Nicholsland, MO 05894",pending
+13,8,2025-05-18T14:42:01.212208,358.12,COD,"6317 Jeffrey Oval Apt. 886, Port Lisafort, VA 91350",shipped
+14,4,2025-05-18T14:42:01.212338,1156.65,COD,"8953 Lopez Brook Suite 657, Lake Jennifer, AL 34085",delivered
+15,1,2025-05-18T14:42:01.212475,2633.1,PayPal,"711 Sue Cape Suite 909, Monicastad, VA 91984",delivered

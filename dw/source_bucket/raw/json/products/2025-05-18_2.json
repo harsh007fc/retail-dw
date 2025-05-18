@@ -1,0 +1,162 @@
+[
+  {
+    "product_id":21,
+    "name":"Team",
+    "category_id":10,
+    "brand":"Bowen, Huffman and Norman",
+    "price":300.44,
+    "stock_quantity":47
+  },
+  {
+    "product_id":22,
+    "name":"Because",
+    "category_id":9,
+    "brand":"Russell-Shaw",
+    "price":80.91,
+    "stock_quantity":53
+  },
+  {
+    "product_id":23,
+    "name":"Culture",
+    "category_id":8,
+    "brand":"Brown Group",
+    "price":160.85,
+    "stock_quantity":61
+  },
+  {
+    "product_id":24,
+    "name":"White",
+    "category_id":9,
+    "brand":"Robertson PLC",
+    "price":358.16,
+    "stock_quantity":7
+  },
+  {
+    "product_id":25,
+    "name":"Everybody",
+    "category_id":10,
+    "brand":"Ortega, Porter and Villa",
+    "price":44.27,
+    "stock_quantity":29
+  },
+  {
+    "product_id":26,
+    "name":"Still",
+    "category_id":8,
+    "brand":"Cunningham Ltd",
+    "price":452.81,
+    "stock_quantity":86
+  },
+  {
+    "product_id":27,
+    "name":"Piece",
+    "category_id":10,
+    "brand":"Norris, Mcknight and Boyd",
+    "price":145.75,
+    "stock_quantity":61
+  },
+  {
+    "product_id":28,
+    "name":"You",
+    "category_id":7,
+    "brand":"Werner, Casey and Shaw",
+    "price":92.93,
+    "stock_quantity":33
+  },
+  {
+    "product_id":29,
+    "name":"Series",
+    "category_id":9,
+    "brand":"Frazier-Lee",
+    "price":288.95,
+    "stock_quantity":59
+  },
+  {
+    "product_id":30,
+    "name":"Development",
+    "category_id":10,
+    "brand":"Lee PLC",
+    "price":119.03,
+    "stock_quantity":41
+  },
+  {
+    "product_id":31,
+    "name":"Present",
+    "category_id":8,
+    "brand":"Ramirez, Rose and Robertson",
+    "price":84.54,
+    "stock_quantity":22
+  },
+  {
+    "product_id":32,
+    "name":"Near",
+    "category_id":9,
+    "brand":"Castaneda, Padilla and Fuentes",
+    "price":213.86,
+    "stock_quantity":66
+  },
+  {
+    "product_id":33,
+    "name":"Doctor",
+    "category_id":7,
+    "brand":"Roberts-Stephens",
+    "price":15.42,
+    "stock_quantity":77
+  },
+  {
+    "product_id":34,
+    "name":"Population",
+    "category_id":8,
+    "brand":"Lee-Bowman",
+    "price":459.67,
+    "stock_quantity":38
+  },
+  {
+    "product_id":35,
+    "name":"Yard",
+    "category_id":8,
+    "brand":"Lee, Tran and Johnson",
+    "price":427.71,
+    "stock_quantity":91
+  },
+  {
+    "product_id":36,
+    "name":"Activity",
+    "category_id":6,
+    "brand":"Adams PLC",
+    "price":492.29,
+    "stock_quantity":12
+  },
+  {
+    "product_id":37,
+    "name":"Loss",
+    "category_id":7,
+    "brand":"Fletcher, Jackson and Sims",
+    "price":402.78,
+    "stock_quantity":20
+  },
+  {
+    "product_id":38,
+    "name":"Tree",
+    "category_id":7,
+    "brand":"Weiss, Sullivan and Jones",
+    "price":114.19,
+    "stock_quantity":65
+  },
+  {
+    "product_id":39,
+    "name":"Deal",
+    "category_id":8,
+    "brand":"Rodriguez, Horton and Huang",
+    "price":332.84,
+    "stock_quantity":80
+  },
+  {
+    "product_id":40,
+    "name":"Behavior",
+    "category_id":7,
+    "brand":"Gray-Jackson",
+    "price":485.01,
+    "stock_quantity":33
+  }
+]

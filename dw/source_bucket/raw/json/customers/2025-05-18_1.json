@@ -1,0 +1,82 @@
+[
+  {
+    "customer_id":1,
+    "name":"David Brown",
+    "email":"zbush@example.net",
+    "phone_number":"457-938-0310x7843",
+    "address":"4643 Brandon Crossing, Williamsshire, DC 52031",
+    "registration_date":"2025-03-01T09:16:46.555999"
+  },
+  {
+    "customer_id":2,
+    "name":"Felicia Weaver",
+    "email":"sandraoconnor@example.com",
+    "phone_number":"8426111257",
+    "address":"073 Collins Ville Suite 616, Lake Katrina, IA 27585",
+    "registration_date":"2025-03-24T17:15:35.226348"
+  },
+  {
+    "customer_id":3,
+    "name":"Jack Davis",
+    "email":"bellstephanie@example.net",
+    "phone_number":"2375864962",
+    "address":"3176 Hutchinson Route, Aprilborough, AL 57613",
+    "registration_date":"2025-02-22T12:21:54.402707"
+  },
+  {
+    "customer_id":4,
+    "name":"Elizabeth Massey",
+    "email":"tarajones@example.com",
+    "phone_number":"304-230-3907x52131",
+    "address":"4095 Watson Skyway Suite 066, North Crystalstad, MH 72025",
+    "registration_date":"2025-05-16T12:47:08.579812"
+  },
+  {
+    "customer_id":5,
+    "name":"Ms. Krista Mcintosh",
+    "email":"thomasheidi@example.com",
+    "phone_number":"5575148251",
+    "address":"Unit 0518 Box 5957, DPO AP 70408",
+    "registration_date":"2025-05-17T04:24:30.877366"
+  },
+  {
+    "customer_id":6,
+    "name":"Pamela Malone",
+    "email":"christian32@example.com",
+    "phone_number":"(924)744-6276x1662",
+    "address":"5881 Ashley Roads Suite 163, West Crystalborough, DE 36365",
+    "registration_date":"2025-03-18T15:13:56.796452"
+  },
+  {
+    "customer_id":7,
+    "name":"Benjamin Moore",
+    "email":"iacosta@example.org",
+    "phone_number":"(344)507-7887x3507",
+    "address":"PSC 7822, Box 7263, APO AE 90722",
+    "registration_date":"2025-04-13T01:47:10.197131"
+  },
+  {
+    "customer_id":8,
+    "name":"Tiffany Hudson",
+    "email":"williamsnathan@example.com",
+    "phone_number":"9835511494",
+    "address":"1273 Julie Center Apt. 304, South Angela, DE 30397",
+    "registration_date":"2025-04-16T06:33:32.516979"
+  },
+  {
+    "customer_id":9,
+    "name":"Lance Bell",
+    "email":"johnny80@example.org",
+    "phone_number":"(445)353-1851x2998",
+    "address":"4064 Barbara Square, South Joshuaberg, AR 86196",
+    "registration_date":"2025-03-31T05:54:12.982662"
+  },
+  {
+    "customer_id":10,
+    "name":"Jenna Lewis",
+    "email":"lryan@example.com",
+    "phone_number":"990.723.1470x749",
+    "address":"23052 Roberts Ramp Suite 972, Lake Travischester, MO 63235",
+    "registration_date":"2025-01-27T18:19:35.557611"
+  }
+]

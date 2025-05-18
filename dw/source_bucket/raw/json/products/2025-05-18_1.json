@@ -1,0 +1,162 @@
+[
+  {
+    "product_id":1,
+    "name":"Ever",
+    "category_id":5,
+    "brand":"Charles and Sons",
+    "price":483.5,
+    "stock_quantity":26
+  },
+  {
+    "product_id":2,
+    "name":"Interesting",
+    "category_id":3,
+    "brand":"Lucas Ltd",
+    "price":138.3,
+    "stock_quantity":18
+  },
+  {
+    "product_id":3,
+    "name":"Author",
+    "category_id":1,
+    "brand":"Mcdonald-King",
+    "price":10.26,
+    "stock_quantity":39
+  },
+  {
+    "product_id":4,
+    "name":"Story",
+    "category_id":5,
+    "brand":"Moore, Warren and Davis",
+    "price":284.87,
+    "stock_quantity":62
+  },
+  {
+    "product_id":5,
+    "name":"Thousand",
+    "category_id":3,
+    "brand":"Taylor, Curry and Osborne",
+    "price":124.05,
+    "stock_quantity":12
+  },
+  {
+    "product_id":6,
+    "name":"Number",
+    "category_id":2,
+    "brand":"Anderson-Vazquez",
+    "price":271.58,
+    "stock_quantity":49
+  },
+  {
+    "product_id":7,
+    "name":"Industry",
+    "category_id":2,
+    "brand":"Dorsey, Hall and Gonzalez",
+    "price":85.64,
+    "stock_quantity":12
+  },
+  {
+    "product_id":8,
+    "name":"Possible",
+    "category_id":2,
+    "brand":"Smith-Dominguez",
+    "price":495.47,
+    "stock_quantity":89
+  },
+  {
+    "product_id":9,
+    "name":"Research",
+    "category_id":1,
+    "brand":"Erickson Group",
+    "price":269.83,
+    "stock_quantity":21
+  },
+  {
+    "product_id":10,
+    "name":"Hear",
+    "category_id":4,
+    "brand":"Dodson Ltd",
+    "price":268.6,
+    "stock_quantity":72
+  },
+  {
+    "product_id":11,
+    "name":"Full",
+    "category_id":4,
+    "brand":"Graham-Carroll",
+    "price":99.87,
+    "stock_quantity":93
+  },
+  {
+    "product_id":12,
+    "name":"Tonight",
+    "category_id":4,
+    "brand":"Wells-Tanner",
+    "price":246.16,
+    "stock_quantity":12
+  },
+  {
+    "product_id":13,
+    "name":"Environment",
+    "category_id":5,
+    "brand":"Garcia, Taylor and Lane",
+    "price":329.26,
+    "stock_quantity":75
+  },
+  {
+    "product_id":14,
+    "name":"Another",
+    "category_id":3,
+    "brand":"Wilson PLC",
+    "price":88.29,
+    "stock_quantity":62
+  },
+  {
+    "product_id":15,
+    "name":"Result",
+    "category_id":3,
+    "brand":"Kline, French and Guerra",
+    "price":116.13,
+    "stock_quantity":17
+  },
+  {
+    "product_id":16,
+    "name":"Wall",
+    "category_id":3,
+    "brand":"Higgins-Weber",
+    "price":76.45,
+    "stock_quantity":32
+  },
+  {
+    "product_id":17,
+    "name":"Likely",
+    "category_id":5,
+    "brand":"Ross LLC",
+    "price":154.28,
+    "stock_quantity":7
+  },
+  {
+    "product_id":18,
+    "name":"Very",
+    "category_id":2,
+    "brand":"Hill Inc",
+    "price":368.36,
+    "stock_quantity":73
+  },
+  {
+    "product_id":19,
+    "name":"Remain",
+    "category_id":5,
+    "brand":"West, Carter and Davis",
+    "price":148.28,
+    "stock_quantity":1
+  },
+  {
+    "product_id":20,
+    "name":"With",
+    "category_id":3,
+    "brand":"Meyer Ltd",
+    "price":233.63,
+    "stock_quantity":92
+  }
+]
