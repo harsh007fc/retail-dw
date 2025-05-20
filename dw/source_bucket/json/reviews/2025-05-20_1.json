@@ -1,0 +1,82 @@
+[
+  {
+    "review_id":1,
+    "customer_id":2,
+    "product_id":1,
+    "rating":2,
+    "comment":"Know into scene enter.",
+    "review_date":"2025-05-20T17:42:37.710115"
+  },
+  {
+    "review_id":2,
+    "customer_id":1,
+    "product_id":2,
+    "rating":3,
+    "comment":"Worker both five own.",
+    "review_date":"2025-05-20T17:42:37.710147"
+  },
+  {
+    "review_id":3,
+    "customer_id":5,
+    "product_id":2,
+    "rating":2,
+    "comment":"Decade drug lay hit understand kitchen pick.",
+    "review_date":"2025-05-20T17:42:37.710170"
+  },
+  {
+    "review_id":4,
+    "customer_id":3,
+    "product_id":4,
+    "rating":1,
+    "comment":"Get player seven wrong pay anything.",
+    "review_date":"2025-05-20T17:42:37.710190"
+  },
+  {
+    "review_id":5,
+    "customer_id":2,
+    "product_id":3,
+    "rating":2,
+    "comment":"Energy government international.",
+    "review_date":"2025-05-20T17:42:37.710209"
+  },
+  {
+    "review_id":6,
+    "customer_id":5,
+    "product_id":3,
+    "rating":1,
+    "comment":"Ago party bar head.",
+    "review_date":"2025-05-20T17:42:37.710228"
+  },
+  {
+    "review_id":7,
+    "customer_id":2,
+    "product_id":2,
+    "rating":5,
+    "comment":"Cell building treatment.",
+    "review_date":"2025-05-20T17:42:37.710246"
+  },
+  {
+    "review_id":8,
+    "customer_id":5,
+    "product_id":5,
+    "rating":3,
+    "comment":"Require dog dinner study war.",
+    "review_date":"2025-05-20T17:42:37.710264"
+  },
+  {
+    "review_id":9,
+    "customer_id":5,
+    "product_id":2,
+    "rating":3,
+    "comment":"Blue large others success relationship edge sea.",
+    "review_date":"2025-05-20T17:42:37.710283"
+  },
+  {
+    "review_id":10,
+    "customer_id":2,
+    "product_id":1,
+    "rating":1,
+    "comment":"Sea agreement say if ready.",
+    "review_date":"2025-05-20T17:42:37.710301"
+  }
+]

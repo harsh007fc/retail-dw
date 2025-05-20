@@ -1,0 +1,42 @@
+[
+  {
+    "customer_id":1,
+    "name":"Ashley Nguyen",
+    "email":"andrew56@example.com",
+    "phone_number":"878.685.1211x3344",
+    "address":"97194 Jessica Court, South Autumn, DE 04204",
+    "registration_date":"2024-05-04T09:24:58.443642"
+  },
+  {
+    "customer_id":2,
+    "name":"Colin Hammond",
+    "email":"smithjoseph@example.com",
+    "phone_number":"+1-737-928-7759x29913",
+    "address":"USNV Quinn, FPO AP 71746",
+    "registration_date":"2024-08-19T23:43:03.005550"
+  },
+  {
+    "customer_id":3,
+    "name":"Eric Peterson",
+    "email":"dana04@example.com",
+    "phone_number":"+1-958-367-2504x0247",
+    "address":"USNS Martin, FPO AP 59113",
+    "registration_date":"2023-07-12T14:35:48.489115"
+  },
+  {
+    "customer_id":4,
+    "name":"Carly Gonzalez",
+    "email":"obell@example.com",
+    "phone_number":"+1-236-999-4845x7108",
+    "address":"778 Murphy Motorway, West Brianaton, AL 06153",
+    "registration_date":"2023-07-09T11:36:32.012187"
+  },
+  {
+    "customer_id":5,
+    "name":"Alyssa Fowler",
+    "email":"dianahoward@example.net",
+    "phone_number":"272-455-0619",
+    "address":"651 Cantrell Cliffs, Helenside, CA 40190",
+    "registration_date":"2024-01-14T15:13:46.055202"
+  }
+]
