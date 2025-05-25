@@ -1,0 +1,42 @@
+[
+  {
+    "product_id":6,
+    "name":"Nice",
+    "category_id":1,
+    "brand":"Mitchell and Sons",
+    "price":932.36,
+    "stock_quantity":64
+  },
+  {
+    "product_id":7,
+    "name":"Necessary",
+    "category_id":1,
+    "brand":"Watson, Chapman and Robertson",
+    "price":418.4,
+    "stock_quantity":60
+  },
+  {
+    "product_id":8,
+    "name":"Surface",
+    "category_id":3,
+    "brand":"Chavez, Clark and Hartman",
+    "price":133.15,
+    "stock_quantity":88
+  },
+  {
+    "product_id":9,
+    "name":"Side",
+    "category_id":1,
+    "brand":"Dunn, Gentry and Davis",
+    "price":817.81,
+    "stock_quantity":83
+  },
+  {
+    "product_id":10,
+    "name":"Simply",
+    "category_id":1,
+    "brand":"Newton, Green and Green",
+    "price":612.07,
+    "stock_quantity":80
+  }
+]

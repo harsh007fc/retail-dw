@@ -31,6 +31,8 @@ connexion==2.14.2
 cron-descriptor==1.4.3
 croniter==2.0.3
 cryptography==41.0.7
+delta==0.4.2
+delta-spark==3.0.0
 Deprecated==1.2.14
 dill==0.3.1.1
 dnspython==2.6.1
