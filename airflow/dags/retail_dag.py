@@ -74,4 +74,5 @@ with DAG(
         >> scd2_tables
         >> static_tables
         >> fact_table
+        >> update_table
     )
