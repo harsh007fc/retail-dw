@@ -69,10 +69,10 @@ def load_fact_sales(spark, processing_date):
     date_str = processing_date.strftime("%Y-%m-%d")
     
     # Read source data with explicit column selection to avoid ambiguity
-    orders_df = spark.read.parquet(f"destination_bucket/bronze/orders/ingestion_date={date_str}/*") \
+    orders_df = spark.read.parquet(f"../dw/destination_bucket/bronze/orders/ingestion_date={date_str}/") \
         .select("order_id", "customer_id", "order_date", "payment_method")
     
-    order_items_df = spark.read.parquet(f"destination_bucket/bronze/order_items/ingestion_date={date_str}/*") \
+    order_items_df = spark.read.parquet(f"../dw/destination_bucket/bronze/order_items/ingestion_date={date_str}/") \
         .select("order_id", "product_id", "quantity", col("price").alias("item_price"))
     
     # Get current versions of dimensions

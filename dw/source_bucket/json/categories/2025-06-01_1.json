@@ -1,0 +1,12 @@
+[
+  {
+    "category_id":1,
+    "category_name":"Stop",
+    "parent_category_id":null
+  },
+  {
+    "category_id":2,
+    "category_name":"Local",
+    "parent_category_id":null
+  }
+]

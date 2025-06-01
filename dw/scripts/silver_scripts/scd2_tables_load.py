@@ -74,7 +74,7 @@ def load_product_dimension(spark, processing_date):
     """Load product dimension for a specific date"""
     print(f"Loading product dimension for date: {processing_date}")
     date_str = processing_date.strftime("%Y-%m-%d")
-    product_df = spark.read.parquet(f"destination_bucket/bronze/products/ingestion_date={date_str}/*")
+    product_df = spark.read.parquet(f"../dw/destination_bucket/bronze/products/ingestion_date={date_str}/")
     product_df = product_df.withColumn('updated_at', lit(processing_date))
     
     # Get the latest version of each product for this date
@@ -106,9 +106,9 @@ def load_customer_dimension(spark, processing_date):
     """Load customer dimension for a specific date"""
     print(f"Loading customer dimension for date: {processing_date}")
     date_str = processing_date.strftime("%Y-%m-%d")
-    customer_df = spark.read.parquet(f"destination_bucket/bronze/customers/ingestion_date={date_str}/*")
+    customer_df = spark.read.parquet(f"../dw/destination_bucket/bronze/customers/ingestion_date={date_str}/")
     customer_df = customer_df.withColumn('updated_at', lit(processing_date))
-    orders_df = spark.read.parquet(f"destination_bucket/bronze/orders/ingestion_date={date_str}/*")
+    orders_df = spark.read.parquet(f"../dw/destination_bucket/bronze/orders/ingestion_date={date_str}/")
     orders_df = orders_df.withColumn('updated_at', lit(processing_date))
     
     # Get latest version of each customer

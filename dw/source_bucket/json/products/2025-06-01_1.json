@@ -1,0 +1,42 @@
+[
+  {
+    "product_id":1,
+    "name":"Against",
+    "category_id":2,
+    "brand":"Miller, Garcia and Adams",
+    "price":616.73,
+    "stock_quantity":63
+  },
+  {
+    "product_id":2,
+    "name":"Population",
+    "category_id":1,
+    "brand":"Caldwell and Sons",
+    "price":99.41,
+    "stock_quantity":27
+  },
+  {
+    "product_id":3,
+    "name":"Time",
+    "category_id":2,
+    "brand":"Baker Inc",
+    "price":617.64,
+    "stock_quantity":35
+  },
+  {
+    "product_id":4,
+    "name":"Race",
+    "category_id":1,
+    "brand":"Hernandez-Moore",
+    "price":62.77,
+    "stock_quantity":76
+  },
+  {
+    "product_id":5,
+    "name":"Form",
+    "category_id":1,
+    "brand":"Mclaughlin PLC",
+    "price":95.87,
+    "stock_quantity":46
+  }
+]

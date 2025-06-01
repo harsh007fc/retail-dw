@@ -57,7 +57,7 @@ def main():
     duckdb_bronze = '../dw/duckdb/retail_olap_bronze.duckdb'
     duckdb_silver = '../dw/duckdb/retail_olap_silver.duckdb'
     create_external_tables_from_bronze(bronze_layer, duckdb_bronze)
-    create_external_tables_from_silver(silver_layer, duckdb_silver)
+    # create_external_tables_from_silver(silver_layer, duckdb_silver)
     
     
 if __name__ == "__main__":

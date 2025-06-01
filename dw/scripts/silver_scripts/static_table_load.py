@@ -102,7 +102,7 @@ def load_category_dimension(spark, processing_date):
     """Load category dimension with incremental support"""
     print("Loading category dimension...")
     date_str = processing_date.strftime("%Y-%m-%d")
-    category_df = spark.read.parquet(f"destination_bucket/bronze/categories/ingestion_date={date_str}/*")
+    category_df = spark.read.parquet(f"../dw/destination_bucket/bronze/categories/ingestion_date={date_str}/")
     category_df = category_df.withColumn("updated_at", lit(processing_date))
     
     # Get the latest version of each category for this date

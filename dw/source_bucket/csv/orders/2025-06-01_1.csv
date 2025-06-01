@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,total_amount,payment_method,shipping_address,status
+1,2,2025-06-01T09:06:58.649356,0.0,PayPal,"127 Reed Hollow Apt. 459, New David, FM 39366",shipped
+2,3,2025-06-01T09:06:58.649376,0.0,UPI,"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",cancelled
+3,4,2025-06-01T09:06:58.649379,0.0,Credit Card,"0758 Arthur Plaza Apt. 417, Lake Brett, NY 03800",pending
+4,4,2025-06-01T09:06:58.649382,0.0,PayPal,"0758 Arthur Plaza Apt. 417, Lake Brett, NY 03800",pending
+5,2,2025-06-01T09:06:58.649384,0.0,Credit Card,"127 Reed Hollow Apt. 459, New David, FM 39366",delivered
+6,5,2025-06-01T09:06:58.649387,0.0,Credit Card,"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",pending
+7,3,2025-06-01T09:06:58.649390,0.0,PayPal,"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",delivered
+8,3,2025-06-01T09:06:58.649392,0.0,PayPal,"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",pending
+9,3,2025-06-01T09:06:58.649395,0.0,Credit Card,"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",cancelled
+10,5,2025-06-01T09:06:58.649398,0.0,COD,"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",cancelled
+11,3,2025-06-01T09:06:58.649400,0.0,PayPal,"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",shipped
+12,1,2025-06-01T09:06:58.649403,0.0,PayPal,"92342 Shea Haven Suite 556, Port Kevinmouth, CO 95143",cancelled
+13,2,2025-06-01T09:06:58.649405,0.0,PayPal,"127 Reed Hollow Apt. 459, New David, FM 39366",cancelled
+14,5,2025-06-01T09:06:58.649408,0.0,UPI,"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",pending
+15,5,2025-06-01T09:06:58.649410,0.0,Credit Card,"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",cancelled

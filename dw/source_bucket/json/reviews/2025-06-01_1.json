@@ -1,0 +1,82 @@
+[
+  {
+    "review_id":1,
+    "customer_id":2,
+    "product_id":4,
+    "rating":5,
+    "comment":"Fly cold toward detail skin much audience cup.",
+    "review_date":"2025-06-01T09:06:58.759015"
+  },
+  {
+    "review_id":2,
+    "customer_id":3,
+    "product_id":5,
+    "rating":2,
+    "comment":"Instead he either support every.",
+    "review_date":"2025-06-01T09:06:58.759050"
+  },
+  {
+    "review_id":3,
+    "customer_id":2,
+    "product_id":5,
+    "rating":1,
+    "comment":"Rate few throughout hot let happy should operation.",
+    "review_date":"2025-06-01T09:06:58.759074"
+  },
+  {
+    "review_id":4,
+    "customer_id":5,
+    "product_id":1,
+    "rating":5,
+    "comment":"Special stop week.",
+    "review_date":"2025-06-01T09:06:58.759095"
+  },
+  {
+    "review_id":5,
+    "customer_id":4,
+    "product_id":5,
+    "rating":4,
+    "comment":"None collection fact apply project number president.",
+    "review_date":"2025-06-01T09:06:58.759115"
+  },
+  {
+    "review_id":6,
+    "customer_id":5,
+    "product_id":1,
+    "rating":3,
+    "comment":"Item might democratic life participant.",
+    "review_date":"2025-06-01T09:06:58.759135"
+  },
+  {
+    "review_id":7,
+    "customer_id":4,
+    "product_id":2,
+    "rating":1,
+    "comment":"Responsibility success story probably country while.",
+    "review_date":"2025-06-01T09:06:58.759154"
+  },
+  {
+    "review_id":8,
+    "customer_id":5,
+    "product_id":2,
+    "rating":3,
+    "comment":"Opportunity happen explain crime skill ago.",
+    "review_date":"2025-06-01T09:06:58.759173"
+  },
+  {
+    "review_id":9,
+    "customer_id":3,
+    "product_id":1,
+    "rating":2,
+    "comment":"Recent strategy clear hundred table million.",
+    "review_date":"2025-06-01T09:06:58.759192"
+  },
+  {
+    "review_id":10,
+    "customer_id":2,
+    "product_id":4,
+    "rating":2,
+    "comment":"Production later spend book perform management.",
+    "review_date":"2025-06-01T09:06:58.759212"
+  }
+]
