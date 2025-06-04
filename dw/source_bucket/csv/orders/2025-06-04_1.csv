@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,total_amount,payment_method,shipping_address,status
+16,8,2025-06-04T14:01:45.057972,0.0,Credit Card,"1003 Williams Ramp, Loritown, FL 94357",cancelled
+17,10,2025-06-04T14:01:45.058002,0.0,Credit Card,"8418 Burke Plaza, Dianaside, PW 68282",pending
+18,8,2025-06-04T14:01:45.058006,0.0,Credit Card,"1003 Williams Ramp, Loritown, FL 94357",cancelled
+19,2,2025-06-04T14:01:45.058016,0.0,PayPal,"127 Reed Hollow Apt. 459, New David, FM 39366",shipped
+20,2,2025-06-04T14:01:45.058019,0.0,COD,"127 Reed Hollow Apt. 459, New David, FM 39366",delivered
+21,5,2025-06-04T14:01:45.058023,0.0,COD,"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",pending
+22,7,2025-06-04T14:01:45.058027,0.0,PayPal,"365 Lara Turnpike, South Christopherburgh, NJ 27478",delivered
+23,2,2025-06-04T14:01:45.058030,0.0,UPI,"127 Reed Hollow Apt. 459, New David, FM 39366",shipped
+24,10,2025-06-04T14:01:45.058033,0.0,UPI,"8418 Burke Plaza, Dianaside, PW 68282",shipped
+25,6,2025-06-04T14:01:45.058037,0.0,PayPal,"57717 Samantha Village, New Olivia, WI 55972",cancelled
+26,5,2025-06-04T14:01:45.058040,0.0,COD,"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",cancelled
+27,1,2025-06-04T14:01:45.058043,0.0,PayPal,"92342 Shea Haven Suite 556, Port Kevinmouth, CO 95143",shipped
+28,4,2025-06-04T14:01:45.058054,0.0,COD,"0758 Arthur Plaza Apt. 417, Lake Brett, NY 03800",delivered
+29,3,2025-06-04T14:01:45.058058,0.0,COD,"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",pending
+30,3,2025-06-04T14:01:45.058061,0.0,UPI,"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",pending

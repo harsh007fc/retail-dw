@@ -1,0 +1,82 @@
+[
+  {
+    "review_id":11,
+    "customer_id":2,
+    "product_id":9,
+    "rating":2,
+    "comment":"Also poor style type.",
+    "review_date":"2025-06-04T14:01:45.194568"
+  },
+  {
+    "review_id":12,
+    "customer_id":2,
+    "product_id":1,
+    "rating":5,
+    "comment":"Type opportunity however way music.",
+    "review_date":"2025-06-04T14:01:45.194605"
+  },
+  {
+    "review_id":13,
+    "customer_id":7,
+    "product_id":6,
+    "rating":5,
+    "comment":"Ask your outside piece.",
+    "review_date":"2025-06-04T14:01:45.194629"
+  },
+  {
+    "review_id":14,
+    "customer_id":8,
+    "product_id":5,
+    "rating":4,
+    "comment":"Control task back strong executive window suggest begin.",
+    "review_date":"2025-06-04T14:01:45.194652"
+  },
+  {
+    "review_id":15,
+    "customer_id":2,
+    "product_id":9,
+    "rating":2,
+    "comment":"Investment expert artist figure.",
+    "review_date":"2025-06-04T14:01:45.194671"
+  },
+  {
+    "review_id":16,
+    "customer_id":6,
+    "product_id":8,
+    "rating":2,
+    "comment":"Lawyer white year mouth wind imagine.",
+    "review_date":"2025-06-04T14:01:45.194692"
+  },
+  {
+    "review_id":17,
+    "customer_id":2,
+    "product_id":2,
+    "rating":2,
+    "comment":"Address total management stay and to participant.",
+    "review_date":"2025-06-04T14:01:45.194712"
+  },
+  {
+    "review_id":18,
+    "customer_id":3,
+    "product_id":3,
+    "rating":2,
+    "comment":"Cause difference hot involve history.",
+    "review_date":"2025-06-04T14:01:45.194732"
+  },
+  {
+    "review_id":19,
+    "customer_id":2,
+    "product_id":9,
+    "rating":5,
+    "comment":"Marriage every as ahead expect.",
+    "review_date":"2025-06-04T14:01:45.194751"
+  },
+  {
+    "review_id":20,
+    "customer_id":1,
+    "product_id":4,
+    "rating":4,
+    "comment":"Particularly agent material generation husband.",
+    "review_date":"2025-06-04T14:01:45.194771"
+  }
+]

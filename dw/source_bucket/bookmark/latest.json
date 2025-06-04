@@ -39,6 +39,86 @@
       "phone_number": "(498)843-1917",
       "address": "8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",
       "registration_date": "2025-03-28T09:13:38.191212"
+    },
+    {
+      "customer_id": 6,
+      "name": "Barbara Curtis",
+      "email": "warrencurry@example.org",
+      "phone_number": "(460)891-5800x8971",
+      "address": "57717 Samantha Village, New Olivia, WI 55972",
+      "registration_date": "2024-05-30T19:03:44.683847"
+    },
+    {
+      "customer_id": 7,
+      "name": "Briana Lewis",
+      "email": "sarahdavis@example.net",
+      "phone_number": "+1-415-808-5827x8682",
+      "address": "365 Lara Turnpike, South Christopherburgh, NJ 27478",
+      "registration_date": "2023-12-13T17:04:41.694720"
+    },
+    {
+      "customer_id": 8,
+      "name": "Jasmin Wilson",
+      "email": "jlee@example.com",
+      "phone_number": "+1-653-774-0740x9114",
+      "address": "1003 Williams Ramp, Loritown, FL 94357",
+      "registration_date": "2025-01-01T21:02:14.479761"
+    },
+    {
+      "customer_id": 9,
+      "name": "Vanessa Robinson",
+      "email": "scott59@example.net",
+      "phone_number": "629-242-4476x5149",
+      "address": "14886 Burke Landing Apt. 556, New Denise, DC 75656",
+      "registration_date": "2024-03-27T04:50:44.016678"
+    },
+    {
+      "customer_id": 10,
+      "name": "Paul Todd",
+      "email": "emilymcneil@example.com",
+      "phone_number": "001-365-919-9277x3386",
+      "address": "8418 Burke Plaza, Dianaside, PW 68282",
+      "registration_date": "2023-10-19T15:36:43.491827"
+    },
+    {
+      "customer_id": 11,
+      "name": "Carol Barton",
+      "email": "ndavis@example.net",
+      "phone_number": "(297)858-2770x22993",
+      "address": "466 King Falls Suite 773, East Sean, NE 70785",
+      "registration_date": "2024-07-08T12:53:16.679387"
+    },
+    {
+      "customer_id": 12,
+      "name": "Kimberly Torres",
+      "email": "sarias@example.com",
+      "phone_number": "688-912-2167x596",
+      "address": "044 Lewis Plain, Dawnburgh, NC 76387",
+      "registration_date": "2024-10-03T20:11:19.341558"
+    },
+    {
+      "customer_id": 13,
+      "name": "Cheryl Thompson",
+      "email": "kingadriana@example.org",
+      "phone_number": "+1-589-369-3114x3932",
+      "address": "1424 David Mill, North Omarfurt, DE 91367",
+      "registration_date": "2024-04-11T08:41:59.437855"
+    },
+    {
+      "customer_id": 14,
+      "name": "Jonathan Smith",
+      "email": "wallskelly@example.com",
+      "phone_number": "001-985-757-4570x009",
+      "address": "373 Robert Tunnel Apt. 993, Robertstad, MS 72472",
+      "registration_date": "2025-04-12T02:00:18.638515"
+    },
+    {
+      "customer_id": 15,
+      "name": "Julie Collins",
+      "email": "catherine65@example.net",
+      "phone_number": "(507)886-6226",
+      "address": "87311 Winters Shore, Danielbury, NC 20755",
+      "registration_date": "2024-03-09T01:51:40.195735"
     }
   ],
   "products": [
@@ -81,6 +161,86 @@
       "brand": "Mclaughlin PLC",
       "price": 95.87,
       "stock_quantity": 46
+    },
+    {
+      "product_id": 6,
+      "name": "Man",
+      "category_id": 4,
+      "brand": "Blake-Garcia",
+      "price": 441.31,
+      "stock_quantity": 79
+    },
+    {
+      "product_id": 7,
+      "name": "Campaign",
+      "category_id": 2,
+      "brand": "Perkins and Sons",
+      "price": 966.14,
+      "stock_quantity": 54
+    },
+    {
+      "product_id": 8,
+      "name": "Technology",
+      "category_id": 2,
+      "brand": "Thompson-Jennings",
+      "price": 836.01,
+      "stock_quantity": 12
+    },
+    {
+      "product_id": 9,
+      "name": "Far",
+      "category_id": 2,
+      "brand": "Castillo, Wilkerson and Lucas",
+      "price": 324.84,
+      "stock_quantity": 85
+    },
+    {
+      "product_id": 10,
+      "name": "Chair",
+      "category_id": 4,
+      "brand": "Gardner, Crawford and Wright",
+      "price": 840.7,
+      "stock_quantity": 67
+    },
+    {
+      "product_id": 11,
+      "name": "Visit",
+      "category_id": 5,
+      "brand": "Coleman-Jordan",
+      "price": 559.55,
+      "stock_quantity": 47
+    },
+    {
+      "product_id": 12,
+      "name": "Itself",
+      "category_id": 5,
+      "brand": "Hess, Brown and Jones",
+      "price": 781.98,
+      "stock_quantity": 45
+    },
+    {
+      "product_id": 13,
+      "name": "Subject",
+      "category_id": 6,
+      "brand": "Wilson, Richardson and Rodriguez",
+      "price": 15.37,
+      "stock_quantity": 19
+    },
+    {
+      "product_id": 14,
+      "name": "Fact",
+      "category_id": 4,
+      "brand": "Joseph-Hughes",
+      "price": 251.39,
+      "stock_quantity": 92
+    },
+    {
+      "product_id": 15,
+      "name": "Huge",
+      "category_id": 5,
+      "brand": "Clark-Nguyen",
+      "price": 882.18,
+      "stock_quantity": 11
     }
   ],
   "categories": [
@@ -92,6 +252,26 @@
     {
       "category_id": 2,
       "category_name": "Local",
+      "parent_category_id": null
+    },
+    {
+      "category_id": 3,
+      "category_name": "Hope",
+      "parent_category_id": null
+    },
+    {
+      "category_id": 4,
+      "category_name": "Water",
+      "parent_category_id": null
+    },
+    {
+      "category_id": 5,
+      "category_name": "Economy",
+      "parent_category_id": null
+    },
+    {
+      "category_id": 6,
+      "category_name": "The",
       "parent_category_id": null
     }
   ]

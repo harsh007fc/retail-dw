@@ -1,11 +1,11 @@
 {
-  "customers": 6,
-  "products": 6,
-  "categories": 3,
-  "orders": 16,
-  "order_items": 35,
-  "cart": 9,
-  "cart_items": 16,
-  "reviews": 11,
-  "browsing_history": 21
+  "customers": 16,
+  "products": 16,
+  "categories": 7,
+  "orders": 46,
+  "order_items": 106,
+  "cart": 25,
+  "cart_items": 51,
+  "reviews": 31,
+  "browsing_history": 61
 }

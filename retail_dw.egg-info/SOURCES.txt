@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+dw/__init__.py
+dw/duckdb/__init__.py
+dw/duckdb/create_external_tables_duckdb.py
+dw/scripts/__init__.py
+retail_dw.egg-info/PKG-INFO
+retail_dw.egg-info/SOURCES.txt
+retail_dw.egg-info/dependency_links.txt
+retail_dw.egg-info/requires.txt
+retail_dw.egg-info/top_level.txt

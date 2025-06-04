@@ -1,0 +1,42 @@
+[
+  {
+    "customer_id":11,
+    "name":"Carol Barton",
+    "email":"ndavis@example.net",
+    "phone_number":"(297)858-2770x22993",
+    "address":"466 King Falls Suite 773, East Sean, NE 70785",
+    "registration_date":"2024-07-08T12:53:16.679387"
+  },
+  {
+    "customer_id":12,
+    "name":"Kimberly Torres",
+    "email":"sarias@example.com",
+    "phone_number":"688-912-2167x596",
+    "address":"044 Lewis Plain, Dawnburgh, NC 76387",
+    "registration_date":"2024-10-03T20:11:19.341558"
+  },
+  {
+    "customer_id":13,
+    "name":"Cheryl Thompson",
+    "email":"kingadriana@example.org",
+    "phone_number":"+1-589-369-3114x3932",
+    "address":"1424 David Mill, North Omarfurt, DE 91367",
+    "registration_date":"2024-04-11T08:41:59.437855"
+  },
+  {
+    "customer_id":14,
+    "name":"Jonathan Smith",
+    "email":"wallskelly@example.com",
+    "phone_number":"001-985-757-4570x009",
+    "address":"373 Robert Tunnel Apt. 993, Robertstad, MS 72472",
+    "registration_date":"2025-04-12T02:00:18.638515"
+  },
+  {
+    "customer_id":15,
+    "name":"Julie Collins",
+    "email":"catherine65@example.net",
+    "phone_number":"(507)886-6226",
+    "address":"87311 Winters Shore, Danielbury, NC 20755",
+    "registration_date":"2024-03-09T01:51:40.195735"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "category_id":5,
+    "category_name":"Economy",
+    "parent_category_id":null
+  },
+  {
+    "category_id":6,
+    "category_name":"The",
+    "parent_category_id":null
+  }
+]

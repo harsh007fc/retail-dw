@@ -1,0 +1,42 @@
+[
+  {
+    "product_id":6,
+    "name":"Man",
+    "category_id":4,
+    "brand":"Blake-Garcia",
+    "price":441.31,
+    "stock_quantity":79
+  },
+  {
+    "product_id":7,
+    "name":"Campaign",
+    "category_id":2,
+    "brand":"Perkins and Sons",
+    "price":966.14,
+    "stock_quantity":54
+  },
+  {
+    "product_id":8,
+    "name":"Technology",
+    "category_id":2,
+    "brand":"Thompson-Jennings",
+    "price":836.01,
+    "stock_quantity":12
+  },
+  {
+    "product_id":9,
+    "name":"Far",
+    "category_id":2,
+    "brand":"Castillo, Wilkerson and Lucas",
+    "price":324.84,
+    "stock_quantity":85
+  },
+  {
+    "product_id":10,
+    "name":"Chair",
+    "category_id":4,
+    "brand":"Gardner, Crawford and Wright",
+    "price":840.7,
+    "stock_quantity":67
+  }
+]

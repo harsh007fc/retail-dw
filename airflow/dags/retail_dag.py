@@ -1,12 +1,6 @@
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-import sys
-import os
-
-
-project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
-sys.path.insert(0, project_root)
 
 
 # Import the job functions
@@ -18,7 +12,9 @@ from dw.scripts.silver_scripts.static_table_load import main as static_tables
 from dw.scripts.silver_scripts.fact_table_load import main as fact_table
 
 default_args = {
-    "owner": "airflow",
+    'owner': 'admin',
+    'tags': ['retail', 'data_warehouse'],  # Makes DAG searchable in UI
+    # "owner": "airflow",
     "depends_on_past": False,
     "email_on_failure": False,
     "email_on_retry": False,
@@ -67,12 +63,4 @@ with DAG(
     )
 
     # Set the dependency - job2 runs after job1 completes
-    (
-        generate_raw
-        >> convert_raw
-        >> update_table
-        >> scd2_tables
-        >> static_tables
-        >> fact_table
-        >> update_table
-    )
+    generate_raw >> convert_raw >> scd2_tables >> static_tables >> fact_table >> update_table

@@ -1,0 +1,42 @@
+[
+  {
+    "product_id":11,
+    "name":"Visit",
+    "category_id":5,
+    "brand":"Coleman-Jordan",
+    "price":559.55,
+    "stock_quantity":47
+  },
+  {
+    "product_id":12,
+    "name":"Itself",
+    "category_id":5,
+    "brand":"Hess, Brown and Jones",
+    "price":781.98,
+    "stock_quantity":45
+  },
+  {
+    "product_id":13,
+    "name":"Subject",
+    "category_id":6,
+    "brand":"Wilson, Richardson and Rodriguez",
+    "price":15.37,
+    "stock_quantity":19
+  },
+  {
+    "product_id":14,
+    "name":"Fact",
+    "category_id":4,
+    "brand":"Joseph-Hughes",
+    "price":251.39,
+    "stock_quantity":92
+  },
+  {
+    "product_id":15,
+    "name":"Huge",
+    "category_id":5,
+    "brand":"Clark-Nguyen",
+    "price":882.18,
+    "stock_quantity":11
+  }
+]

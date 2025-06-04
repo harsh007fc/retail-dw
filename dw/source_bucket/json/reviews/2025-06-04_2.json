@@ -1,0 +1,82 @@
+[
+  {
+    "review_id":21,
+    "customer_id":5,
+    "product_id":10,
+    "rating":4,
+    "comment":"Enter build person.",
+    "review_date":"2025-06-04T15:05:18.213798"
+  },
+  {
+    "review_id":22,
+    "customer_id":7,
+    "product_id":2,
+    "rating":1,
+    "comment":"Make avoid before city voice.",
+    "review_date":"2025-06-04T15:05:18.213834"
+  },
+  {
+    "review_id":23,
+    "customer_id":15,
+    "product_id":14,
+    "rating":5,
+    "comment":"Century read well recently course company.",
+    "review_date":"2025-06-04T15:05:18.213859"
+  },
+  {
+    "review_id":24,
+    "customer_id":10,
+    "product_id":7,
+    "rating":1,
+    "comment":"Name plan task respond.",
+    "review_date":"2025-06-04T15:05:18.213880"
+  },
+  {
+    "review_id":25,
+    "customer_id":14,
+    "product_id":7,
+    "rating":2,
+    "comment":"Represent a you song send.",
+    "review_date":"2025-06-04T15:05:18.213900"
+  },
+  {
+    "review_id":26,
+    "customer_id":9,
+    "product_id":2,
+    "rating":1,
+    "comment":"Field free center your it executive.",
+    "review_date":"2025-06-04T15:05:18.213921"
+  },
+  {
+    "review_id":27,
+    "customer_id":10,
+    "product_id":3,
+    "rating":3,
+    "comment":"Evening raise trouble gun top forget option how.",
+    "review_date":"2025-06-04T15:05:18.213941"
+  },
+  {
+    "review_id":28,
+    "customer_id":9,
+    "product_id":7,
+    "rating":3,
+    "comment":"Explain seem sport table.",
+    "review_date":"2025-06-04T15:05:18.213961"
+  },
+  {
+    "review_id":29,
+    "customer_id":10,
+    "product_id":5,
+    "rating":2,
+    "comment":"Let cell rise free unit community.",
+    "review_date":"2025-06-04T15:05:18.213980"
+  },
+  {
+    "review_id":30,
+    "customer_id":9,
+    "product_id":3,
+    "rating":3,
+    "comment":"Figure oil sense staff account method forget.",
+    "review_date":"2025-06-04T15:05:18.213999"
+  }
+]

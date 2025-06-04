@@ -1,0 +1,42 @@
+[
+  {
+    "customer_id":6,
+    "name":"Barbara Curtis",
+    "email":"warrencurry@example.org",
+    "phone_number":"(460)891-5800x8971",
+    "address":"57717 Samantha Village, New Olivia, WI 55972",
+    "registration_date":"2024-05-30T19:03:44.683847"
+  },
+  {
+    "customer_id":7,
+    "name":"Briana Lewis",
+    "email":"sarahdavis@example.net",
+    "phone_number":"+1-415-808-5827x8682",
+    "address":"365 Lara Turnpike, South Christopherburgh, NJ 27478",
+    "registration_date":"2023-12-13T17:04:41.694720"
+  },
+  {
+    "customer_id":8,
+    "name":"Jasmin Wilson",
+    "email":"jlee@example.com",
+    "phone_number":"+1-653-774-0740x9114",
+    "address":"1003 Williams Ramp, Loritown, FL 94357",
+    "registration_date":"2025-01-01T21:02:14.479761"
+  },
+  {
+    "customer_id":9,
+    "name":"Vanessa Robinson",
+    "email":"scott59@example.net",
+    "phone_number":"629-242-4476x5149",
+    "address":"14886 Burke Landing Apt. 556, New Denise, DC 75656",
+    "registration_date":"2024-03-27T04:50:44.016678"
+  },
+  {
+    "customer_id":10,
+    "name":"Paul Todd",
+    "email":"emilymcneil@example.com",
+    "phone_number":"001-365-919-9277x3386",
+    "address":"8418 Burke Plaza, Dianaside, PW 68282",
+    "registration_date":"2023-10-19T15:36:43.491827"
+  }
+]

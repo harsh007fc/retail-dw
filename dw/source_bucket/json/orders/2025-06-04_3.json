@@ -1,0 +1,137 @@
+[
+  {
+    "order_id":31,
+    "customer_id":9,
+    "order_date":"2025-06-04T15:05:18.045015",
+    "total_amount":0.0,
+    "payment_method":"Credit Card",
+    "shipping_address":"14886 Burke Landing Apt. 556, New Denise, DC 75656",
+    "status":"pending"
+  },
+  {
+    "order_id":32,
+    "customer_id":5,
+    "order_date":"2025-06-04T15:05:18.045045",
+    "total_amount":0.0,
+    "payment_method":"UPI",
+    "shipping_address":"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",
+    "status":"shipped"
+  },
+  {
+    "order_id":33,
+    "customer_id":3,
+    "order_date":"2025-06-04T15:05:18.045055",
+    "total_amount":0.0,
+    "payment_method":"UPI",
+    "shipping_address":"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",
+    "status":"delivered"
+  },
+  {
+    "order_id":34,
+    "customer_id":10,
+    "order_date":"2025-06-04T15:05:18.045059",
+    "total_amount":0.0,
+    "payment_method":"COD",
+    "shipping_address":"8418 Burke Plaza, Dianaside, PW 68282",
+    "status":"pending"
+  },
+  {
+    "order_id":35,
+    "customer_id":14,
+    "order_date":"2025-06-04T15:05:18.045062",
+    "total_amount":0.0,
+    "payment_method":"COD",
+    "shipping_address":"373 Robert Tunnel Apt. 993, Robertstad, MS 72472",
+    "status":"pending"
+  },
+  {
+    "order_id":36,
+    "customer_id":15,
+    "order_date":"2025-06-04T15:05:18.045065",
+    "total_amount":0.0,
+    "payment_method":"COD",
+    "shipping_address":"87311 Winters Shore, Danielbury, NC 20755",
+    "status":"pending"
+  },
+  {
+    "order_id":37,
+    "customer_id":5,
+    "order_date":"2025-06-04T15:05:18.045068",
+    "total_amount":0.0,
+    "payment_method":"COD",
+    "shipping_address":"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",
+    "status":"delivered"
+  },
+  {
+    "order_id":38,
+    "customer_id":15,
+    "order_date":"2025-06-04T15:05:18.045071",
+    "total_amount":0.0,
+    "payment_method":"UPI",
+    "shipping_address":"87311 Winters Shore, Danielbury, NC 20755",
+    "status":"shipped"
+  },
+  {
+    "order_id":39,
+    "customer_id":10,
+    "order_date":"2025-06-04T15:05:18.045073",
+    "total_amount":0.0,
+    "payment_method":"COD",
+    "shipping_address":"8418 Burke Plaza, Dianaside, PW 68282",
+    "status":"delivered"
+  },
+  {
+    "order_id":40,
+    "customer_id":9,
+    "order_date":"2025-06-04T15:05:18.045076",
+    "total_amount":0.0,
+    "payment_method":"UPI",
+    "shipping_address":"14886 Burke Landing Apt. 556, New Denise, DC 75656",
+    "status":"pending"
+  },
+  {
+    "order_id":41,
+    "customer_id":15,
+    "order_date":"2025-06-04T15:05:18.045079",
+    "total_amount":0.0,
+    "payment_method":"PayPal",
+    "shipping_address":"87311 Winters Shore, Danielbury, NC 20755",
+    "status":"shipped"
+  },
+  {
+    "order_id":42,
+    "customer_id":7,
+    "order_date":"2025-06-04T15:05:18.045082",
+    "total_amount":0.0,
+    "payment_method":"PayPal",
+    "shipping_address":"365 Lara Turnpike, South Christopherburgh, NJ 27478",
+    "status":"shipped"
+  },
+  {
+    "order_id":43,
+    "customer_id":2,
+    "order_date":"2025-06-04T15:05:18.045085",
+    "total_amount":0.0,
+    "payment_method":"Credit Card",
+    "shipping_address":"127 Reed Hollow Apt. 459, New David, FM 39366",
+    "status":"delivered"
+  },
+  {
+    "order_id":44,
+    "customer_id":6,
+    "order_date":"2025-06-04T15:05:18.045088",
+    "total_amount":0.0,
+    "payment_method":"COD",
+    "shipping_address":"57717 Samantha Village, New Olivia, WI 55972",
+    "status":"shipped"
+  },
+  {
+    "order_id":45,
+    "customer_id":15,
+    "order_date":"2025-06-04T15:05:18.045091",
+    "total_amount":0.0,
+    "payment_method":"PayPal",
+    "shipping_address":"87311 Winters Shore, Danielbury, NC 20755",
+    "status":"cancelled"
+  }
+]

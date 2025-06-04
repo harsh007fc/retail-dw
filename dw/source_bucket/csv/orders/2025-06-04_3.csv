@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,total_amount,payment_method,shipping_address,status
+31,9,2025-06-04T15:05:18.045015,0.0,Credit Card,"14886 Burke Landing Apt. 556, New Denise, DC 75656",pending
+32,5,2025-06-04T15:05:18.045045,0.0,UPI,"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",shipped
+33,3,2025-06-04T15:05:18.045055,0.0,UPI,"46023 Greer Crescent Suite 528, Baldwinchester, SD 86320",delivered
+34,10,2025-06-04T15:05:18.045059,0.0,COD,"8418 Burke Plaza, Dianaside, PW 68282",pending
+35,14,2025-06-04T15:05:18.045062,0.0,COD,"373 Robert Tunnel Apt. 993, Robertstad, MS 72472",pending
+36,15,2025-06-04T15:05:18.045065,0.0,COD,"87311 Winters Shore, Danielbury, NC 20755",pending
+37,5,2025-06-04T15:05:18.045068,0.0,COD,"8380 Shaffer Grove Apt. 680, Lake Fred, GA 87898",delivered
+38,15,2025-06-04T15:05:18.045071,0.0,UPI,"87311 Winters Shore, Danielbury, NC 20755",shipped
+39,10,2025-06-04T15:05:18.045073,0.0,COD,"8418 Burke Plaza, Dianaside, PW 68282",delivered
+40,9,2025-06-04T15:05:18.045076,0.0,UPI,"14886 Burke Landing Apt. 556, New Denise, DC 75656",pending
+41,15,2025-06-04T15:05:18.045079,0.0,PayPal,"87311 Winters Shore, Danielbury, NC 20755",shipped
+42,7,2025-06-04T15:05:18.045082,0.0,PayPal,"365 Lara Turnpike, South Christopherburgh, NJ 27478",shipped
+43,2,2025-06-04T15:05:18.045085,0.0,Credit Card,"127 Reed Hollow Apt. 459, New David, FM 39366",delivered
+44,6,2025-06-04T15:05:18.045088,0.0,COD,"57717 Samantha Village, New Olivia, WI 55972",shipped
+45,15,2025-06-04T15:05:18.045091,0.0,PayPal,"87311 Winters Shore, Danielbury, NC 20755",cancelled

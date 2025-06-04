@@ -25,10 +25,8 @@ pip install "apache-airflow==${AIRFLOW_VERSION}" \
 
 export AIRFLOW_HOME=$(pwd)/airflow
 
-export AIRFLOW_HOME=$(pwd)
 
-
-
+airflow config get-value core dags_folder
 
 airflow db init
 
@@ -46,6 +44,14 @@ airflow users create \
 
 
 
+airflow users create \
+    --username admin \
+    --password admin \
+    --firstname First \
+    --lastname Last \
+    --role Admin \
+    --email admin@example.com
+
 
 airflow scheduler
 
@@ -55,7 +61,7 @@ airflow webserver --port 8080
 
 
 
-
+airflow standalone
 
 
 
